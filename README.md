@@ -2,7 +2,7 @@
 
 ## Projeto
 
-:folhas: Projeto Criado há um tempo
+:livros: Projeto Criado há um tempo
 
 :octocat: Fazendo upload pro GitHub
 
